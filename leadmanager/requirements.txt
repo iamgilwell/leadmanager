@@ -1,0 +1,11 @@
+autopep8==1.4.4
+cffi==1.13.2
+cryptography==2.8
+Django==2.2.7
+django-rest-knox==4.1.0
+djangorestframework==3.10.3
+pycodestyle==2.5.0
+pycparser==2.19
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
